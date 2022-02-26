@@ -14,6 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `npm server`
+Will start the JSON server which acts like a pseudo-backend to fetch data. It uses `db.json` as a pseudo-database which contains all the data.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
